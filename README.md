@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Nasir Uddin 👋
 
-<!--
-**NasirUddin93/NasirUddin93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Full-Stack Developer passionate about building modern, scalable, and user-friendly applications. I enjoy creating robust backend systems with Laravel, REST APIs, and MySQL, while also building responsive interfaces with React, Next.js, TypeScript, and Tailwind CSS.
 
-Here are some ideas to get you started:
+## About Me
+- 💼 Building modern applications and business solutions
+- 🧠 Strong in Laravel, PHP, MySQL, REST APIs, and clean architecture
+- ⚡ Focused on performance, security, and maintainable code
+- 🌐 Portfolio: [Globix Tech](https://www.globix.tech/)
+- 🔗 LinkedIn: [Nasir Uddin](https://www.linkedin.com/in/nasiruddin-globixtech/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+### Backend
+- Laravel
+- PHP
+- REST APIs
+- MySQL
+- Authentication & Authorization
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- ShadCN
+- Responsive UI Design
+
+## What I Do
+- Develop scalable applications with Laravel and modern frontend stacks
+- Build and integrate REST APIs efficiently
+- Create clean, responsive, and user-friendly interfaces
+- Focus on reliable architecture and long-term maintainability
+
+## Connect With Me
+- Portfolio: [globix.tech](https://www.globix.tech/)
+- LinkedIn: [Nasir Uddin](https://www.linkedin.com/in/nasiruddin-globixtech/)
+
+> I turn ideas into reliable, scalable, and professional web solutions.
