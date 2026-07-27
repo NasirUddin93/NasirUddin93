@@ -1,4 +1,4 @@
-# Hi, I'm Nasir Uddin 👋
+# Hi, I'm Nasir Uddin
 
 I am a Full-Stack Developer focused on building modern, scalable, and business-ready web applications. My current work revolves around ERP systems, SaaS-style platforms, and API-driven solutions, with strong expertise in Laravel, PHP, React, Next.js, and TypeScript.
 
