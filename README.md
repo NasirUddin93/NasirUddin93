@@ -188,8 +188,15 @@ I am a results-driven **Full Stack Software Engineer** at **[GlobixTech Solution
 
 ## 09. Education & Research
 
-### 🎓 **B.Sc. in Computer Science & Engineering (CSE)**
-*Deep focus on Software Engineering, Database Management Systems, Algorithm Design, and Machine Learning.*
+### 🎓 **Academic Background**
+
+- **Master of Science (M.Sc.) in Information Technology**
+  - **Institution:** Jahangirnagar University &nbsp;|&nbsp; **Year:** 2025
+  - **Result:** CGPA **3.73 / 4.00** *(Merit Position: 1st)*
+  - **Key Coursework:** Artificial Intelligence (AI), Machine Learning (ML), Cloud Computing, Data Mining
+
+- **Bachelor of Science (B.Sc.) in Computer Science & Engineering (CSE)**
+  - Core foundations in Software Engineering, Database Management Systems (DBMS), Data Structures, Algorithms, and Distributed Computing.
 
 ### 🔬 Applied Research & Machine Learning Projects
 - **[Real-Time Plant Disease Detection](https://github.com/NasirUddin93/Real_Time_Plant_Disease_Detection)**
