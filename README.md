@@ -155,10 +155,10 @@ I am a results-driven **Full Stack Software Engineer** at **[GlobixTech Solution
 
 ## 07. Professional Experience
 
-### 🏢 **Founder & Managing Director / Lead Full Stack Engineer**
+### 🏢 **Lead Full Stack Software Engineer**
 **[GlobixTech Solutions](https://www.globix.tech/)** | *Dhaka, Bangladesh* &nbsp;•&nbsp; `2020 – Present`
-- Founded and directed the software engineering lifecycle for enterprise client systems across Bangladesh, serving 80+ clients in retail, educational, and e-commerce domains.
-- Led the end-to-end design, implementation, and deployment of Globix's core products: **POS System**, **Multi-Warehouse Inventory Suite**, **School Management System (SMS)**, and **Enterprise ERP**.
+- Led the end-to-end software engineering lifecycle and system architecture for enterprise client systems, powering 80+ deployments in retail, educational, and e-commerce sectors.
+- Directed the technical design, core implementation, and production deployment of flagship products: **POS System**, **Multi-Warehouse Inventory Suite**, **School Management System (SMS)**, and **Enterprise ERP**.
 - Directed full-stack development teams, mentoring junior engineers on clean architecture, code reviews, SOLID design patterns, and Git workflow best practices.
 - Managed cloud infrastructure on Linux VPS, automating deployments using Docker containers and Nginx reverse proxy configurations.
 
@@ -203,7 +203,7 @@ I am a results-driven **Full Stack Software Engineer** at **[GlobixTech Solution
 
 <div align="center">
 
-Looking to discuss an enterprise software solution, an API-driven architecture, or full-stack engineering collaboration? Feel free to reach out!
+Actively open to full-time Software Engineering roles, high-impact Laravel & React architectures, and technical collaboration. Feel free to reach out!
 
 <br/>
 
