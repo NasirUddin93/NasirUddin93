@@ -19,7 +19,7 @@
 
 ## 01. About Me
 
-I am a results-driven **Full Stack Software Engineer** at **[GlobixTech Solutions](https://www.globix.tech/)**, based in Bangladesh. With over 5 years of software engineering experience, I specialize in engineering high-concurrency enterprise web applications, modular ERP platforms (POS, Inventory, Accounting, School Management), and robust RESTful API ecosystems.
+I am a results-driven **Full Stack Software Engineer** at **[GlobixTech Solutions](https://www.globix.tech/)**, based in Bangladesh. With over 3 years of software engineering experience, I specialize in engineering high-concurrency enterprise web applications, modular ERP platforms (POS, Inventory, Accounting, School Management), and robust RESTful API ecosystems.
 
 - 💼 **Primary Focus:** Building scalable SaaS platforms, enterprise ERP systems, and microservice/monolith API architectures.
 - ⚡ **Core Strengths:** Deep expertise in **Laravel (PHP 8+)**, **React**, **Next.js**, **TypeScript**, and **MySQL optimization**.
